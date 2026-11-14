@@ -1,5 +1,5 @@
 {
-  "prefix": "/",
+  "prefix": ".",
   "language": "en",
   "timeZone": "Asia/Dhaka",
   "database": {
@@ -8,7 +8,7 @@
     "autoSyncWhenStart": false
   },
   "adminBot": [
-    "35009311397",
+    "80054943614",
     "68311189434",
     "59605953590",
     "69321172417",
