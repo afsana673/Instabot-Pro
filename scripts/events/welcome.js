@@ -60,7 +60,7 @@ module.exports = {
 
   langs: {
     en: {
-      defaultWelcomeMessage: "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 {userName} 🎉\n┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄\n✦ Glad to have you here! Enjoy your stay and make great memories 🌸",
+      defaultWelcomeMessage: "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗡𝗲𝘄 𝗠𝗲𝗺𝗯𝗲𝗿 {userName} 🎉\n┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄\n✦ তোমাকে আমাদের মাঝে পেয়ে আমরা আনন্দিত! ❤️ আশা করি, এখানে তোমার সময়টা আনন্দে কাটবে এবং সুন্দর সুন্দর স্মৃতি তৈরি হবে। 🌸 🌸",
       botAddedMessage:
         "━━━━━━━━━━━━━━━━━━━\n🤖 ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ᴛᴏ ᴛʜᴇ ɢʀᴏᴜᴘ! 💖\n\n⚙️ ʙᴏᴛ ᴘʀᴇꜰɪx : /\n📜 ᴛʏᴘᴇ /help ᴛᴏ sᴇᴇ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs\n\n✨ ʟᴇᴛ's ᴍᴀᴋᴇ ᴛʜɪs ɢʀᴏᴜᴘ ᴇᴠᴇɴ ᴍᴏʀᴇ ꜰᴜɴ ᴛᴏɢᴇᴛʜᴇʀ! 😄\n━━━━━━━━━━━━━━━━━━━"
     }
