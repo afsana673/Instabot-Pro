@@ -8,7 +8,7 @@ const axios = require("axios");
 /* ──────────────────────────────────────────────────────────────
  * CONFIG
  * ────────────────────────────────────────────────────────────── */
-const BRAND = "Powered By Habib";
+const BRAND = "By eryxenx & Habib";
 const SCALE = 2;                     // 2 = crisp 2400×1260 output. Use 1 for smaller files.
 const W = 1200, H = 630;
 
